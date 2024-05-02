@@ -1,0 +1,48 @@
+.input-field {
+    width: 100%;
+}
+
+.css-55xrac {
+    width: 100%;
+    max-width: 360px;
+    color: aliceblue;
+    box-shadow: 0px 0px 4px 0px rgb(228, 228, 228);
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+}
+
+.input-title {
+    font-size: 14px;
+    font-weight: 500;
+    color: grey;
+    margin-bottom: 5px;
+}
+
+.MuiFormControl-root.MuiTextField-root {
+    width: 100%;
+}
+
+.MuiInputBase-input.MuiOutlinedInput-input {
+    border-radius: 4px 4px;
+    padding: 11px 15px;
+    background-color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.MuiInputBase-input.MuiOutlinedInput-input::-webkit-outer-spin-button,
+.MuiInputBase-input.MuiOutlinedInput-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    appearance: none;
+    margin: 0;
+}
+
+.MuiInputBase-input.MuiOutlinedInput-input[type="number"] {
+    -moz-appearance: textfield;
+    appearance: textfield;
+}
+
+.MuiInputBase-input.MuiOutlinedInput-input.MuiInputBase-inputMultiline {
+    padding: 0px;
+}
